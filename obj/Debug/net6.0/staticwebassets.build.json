@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "a1Cx26qB1LuTpqlcxaaTceQ2HxeY/wiW5os23CtJcf4=",
+  "Source": "designerapp",
+  "BasePath": "_content/designerapp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "designerapp\\wwwroot",
+      "Source": "designerapp",
+      "ContentRoot": "E:\\VNPT_IT\\dx_test\\designerapp\\wwwroot\\",
+      "BasePath": "_content/designerapp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\VNPT_IT\\dx_test\\designerapp\\wwwroot\\favicon.ico",
+      "SourceId": "designerapp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\VNPT_IT\\dx_test\\designerapp\\wwwroot\\",
+      "BasePath": "_content/designerapp",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

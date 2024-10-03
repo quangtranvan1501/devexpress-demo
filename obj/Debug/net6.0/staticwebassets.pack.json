@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\VNPT_IT\\dx_test\\designerapp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.designerapp.props",
+      "PackagePath": "build\\designerapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.designerapp.props",
+      "PackagePath": "buildMultiTargeting\\designerapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.designerapp.props",
+      "PackagePath": "buildTransitive\\designerapp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.designerapp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
